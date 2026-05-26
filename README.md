@@ -19,10 +19,6 @@ am verificat coduri de reducere, am făcut o verificare simplă pentru login,
 am calculat suma produselor adăugate și am folosit o listă de produse pentru
 a verifica stocul. Unele rezultate se văd în consola browserului.
 
-## Cum se deschide
-
-Pentru vizualizarea site-ului se deschide fișierul `index.html` în browser.
-
 ## GitHub
 
 Link proiect:
